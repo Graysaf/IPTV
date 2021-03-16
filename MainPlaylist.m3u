@@ -14,7 +14,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
 #EXTINF:-1 channel-id="5" group-title="Эфирные" tvg-name="Пятый канал +2",Пятый канал
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="6" tvg-logo="https://iptvx.one/icn/rossia-k.png" group-title="Эфирные" tvg-name="Россия К +2",Россия К +2
+#EXTINF:-1 channel-id="6" tvg-logo="https://iptvx.one/icn/rossia-k.png" group-title="Эфирные" tvg-name="Россия К +2",Культура
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
 #EXTINF:-1 channel-id="7" group-title="Эфирные" tvg-name="Россия 24",Россия 24
