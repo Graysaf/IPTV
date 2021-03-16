@@ -50,7 +50,7 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
 #EXTINF:-1 channel-id="17" group-title="Эфирные" tvg-name="Звезда +2",Звезда
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 channel-id="18" group-title="Эфирные" tvg-name="Мир +2",Мир
+#EXTINF:-1 channel-id="18" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/icon/mir.png?raw=true" group-title="Эфирные" tvg-name="Мир +2",Мир
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
 #EXTINF:-1 channel-id="19" group-title="Эфирные" tvg-name="ТНТ +2",ТНТ
