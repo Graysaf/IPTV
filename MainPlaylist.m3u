@@ -71,9 +71,12 @@ https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant
 #EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские" tvg-name="2x2 +2",2x2 +2
 #EXTGRP:Детские
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+
 #EXTINF:-1 tvg-id="amedia1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы" tvg-name="A1",A1
 #EXTGRP:Фильмы и сериалы
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
+
 #EXTINF:-1 tvg-id="amedia2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia2.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Amedia 2",Amedia 2
 #EXTGRP:Фильмы и сериалы
 http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
