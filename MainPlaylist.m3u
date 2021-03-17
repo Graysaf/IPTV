@@ -30,9 +30,9 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-7
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
 #EXTINF:-1 channel-id="11" tvg-id="rentv-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rentv.png?raw=true" group-title="Эфирные" tvg-name="РЕН ТВ +2",РЕН ТВ +2
-#EXTGRP:Регилиозные
+#EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 channel-id="12" tvg-id="spas" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Эфирные" tvg-name="Спас",Спас
+#EXTINF:-1 channel-id="12" tvg-id="spas" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Региональные" tvg-name="Спас",Спас
 #EXTGRP:Эфирные
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 channel-id="13" tvg-id="sts-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts.png?raw=true" group-title="Эфирные" tvg-name="СТС +2",СТС +2
