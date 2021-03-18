@@ -1,187 +1,124 @@
-#EXTM3U
-#EXTINF:-1 channel-id="1" tvg-id="pervy-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные" tvg-name="Первый канал +2",Первый канал +2
-#EXTGRP:Эфирные
+﻿#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTINF:-1 tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="2" tvg-id="rossia1-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные" tvg-name="Россия 1 +2",Россия 1 +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Россия 1 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные",Россия 1 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 channel-id="3" tvg-id="match-tv" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные" tvg-name="Матч! ТВ",Матч! ТВ
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Матч! ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные",Матч! ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-#EXTINF:-1 channel-id="4" tvg-id="ntv-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ntv.png?raw=true" group-title="Эфирные" tvg-name="НТВ +2",НТВ +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="НТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ntv.png?raw=true" group-title="Эфирные",НТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="5" tvg-id="5kanal-ru-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/5kanal-ru.png?raw=true" group-title="Эфирные" tvg-name="Пятый канал +2",Пятый канал +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Пятый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/5kanal-ru.png?raw=true" group-title="Эфирные",Пятый канал +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="6" tvg-id="kultura-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kultura.png?raw=true" group-title="Эфирные" tvg-name="Россия К +2",Россия К +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Россия К +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kultura.png?raw=true" group-title="Эфирные",Россия К +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 channel-id="7" tvg-id="rossia-24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Эфирные" tvg-name="Россия 24",Россия 24
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Эфирные",Россия 24
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
-#EXTINF:-1 channel-id="8" tvg-id="karusel-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karusel.png?raw=true" group-title="Эфирные" tvg-name="Карусель +2",Карусель +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Карусель +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karusel.png?raw=true" group-title="Эфирные",Карусель +2
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 channel-id="9" tvg-id="otr-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/otr.png?raw=true" group-title="Эфирные" tvg-name="ОТР (+2)",ОТР (+2)
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="ОТР (+2)" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/otr.png?raw=true" group-title="Эфирные",ОТР (+2)
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 channel-id="10" tvg-id="tvcentr-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tvcentr.png?raw=true" group-title="Эфирные" tvg-name="ТВ Центр +2",ТВ Центр +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="ТВ Центр +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tvcentr.png?raw=true" group-title="Эфирные",ТВ Центр +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 channel-id="11" tvg-id="rentv-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rentv.png?raw=true" group-title="Эфирные" tvg-name="РЕН ТВ +2",РЕН ТВ +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="РЕН ТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rentv.png?raw=true" group-title="Эфирные",РЕН ТВ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 channel-id="12" tvg-id="spas" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Региональные" tvg-name="Спас",Спас
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Спас" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Эфирные",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1 channel-id="13" tvg-id="sts-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts.png?raw=true" group-title="Эфирные" tvg-name="СТС +2",СТС +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="СТС +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts.png?raw=true" group-title="Эфирные",СТС +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="14" tvg-id="domashny-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/domashny.png?raw=true" group-title="Эфирные" tvg-name="Домашний +2",Домашний +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Домашний +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/domashny.png?raw=true" group-title="Эфирные",Домашний +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="15" tvg-id="tv3-ru-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv3-ru.png?raw=true" group-title="Эфирные" tvg-name="ТВ3 +2",ТВ3 +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="ТВ3 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv3-ru.png?raw=true" group-title="Эфирные",ТВ3 +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="16" tvg-id="piatnica-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/piatnica.png?raw=true" group-title="Эфирные" tvg-name="Пятница +2",Пятница +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Пятница +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/piatnica.png?raw=true" group-title="Эфирные",Пятница +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
-#EXTINF:-1 channel-id="17" tvg-id="zvezda-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/zvezda.png?raw=true" group-title="Эфирные" tvg-name="Звезда +2",Звезда +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Звезда +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/zvezda.png?raw=true" group-title="Эфирные",Звезда +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 channel-id="18" tvg-id="mir-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/mir.png?raw=true" group-title="Эфирные" tvg-name="Мир +2",Мир +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Мир +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/mir.png?raw=true" group-title="Эфирные",Мир +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 channel-id="19" tvg-id="tnt-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt.png?raw=true" group-title="Эфирные" tvg-name="ТНТ +2",ТНТ +2
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="ТНТ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt.png?raw=true" group-title="Эфирные",ТНТ +2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 channel-id="20" tvg-id="muztv" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Эфирные" tvg-name="Муз ТВ",Муз ТВ
-#EXTGRP:Эфирные
+#EXTINF:-1 tvg-name="Муз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Эфирные",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 channel-id="21" tvg-id="tumenskoe-vremia" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tumenskoe-vremia.png?raw=true" group-title="Региональные" tvg-name="Тюменское время",Тюменское время
-#EXTGRP:Региональные
+#EXTINF:-1 tvg-name="Тюменское время" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tumenskoe-vremia.png?raw=true" group-title="Региональные",Тюменское время
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8?version=2
-#EXTINF:-1 channel-id="22" tvg-id="yugra" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yugra.png?raw=true" group-title="Региональные" tvg-name="Югра",Югра
-#EXTGRP:Региональные
+#EXTINF:-1 tvg-name="Югра" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yugra.png?raw=true" group-title="Региональные",Югра
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
-#EXTINF:-1 channel-id="23" tvg-id="yamal-region" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yamal-region.png?raw=true" group-title="Региональные" tvg-name="Ямал-Регион",Ямал-Регион
-#EXTGRP:Региональные
+#EXTINF:-1 tvg-name="Ямал-Регион" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yamal-region.png?raw=true" group-title="Региональные",Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="2na2-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские" tvg-name="2x2 +2",2x2 +2
-#EXTGRP:Детские
-https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
-
-#EXTINF:-1 tvg-id="amedia1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Amedia 1",Amedia 1
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="СТС Love +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Центральные",СТС Love +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Суббота +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Центральные",Суббота +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="ТНТ4 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Центральные",ТНТ4 +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Че +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Центральные",Че +2
+https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Ю +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Центральные",Ю +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы",Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
-
-#EXTINF:-1 tvg-id="amedia2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia2.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Amedia 2",Amedia 2
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Amedia 2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia2.png?raw=true" group-title="Фильмы и сериалы",Amedia 2
 http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
-#EXTINF:-1 tvg-id="amedia-hit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia-hit.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Amedia Hit",Amedia Hit
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia-hit.png?raw=true" group-title="Фильмы и сериалы",Amedia Hit
 https://sc.id-tv.kz/amedia_hit_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="amedia-premium" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia-premium.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Amedia Premium",Amedia Premium
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Amedia Premium" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia-premium.png?raw=true" group-title="Фильмы и сериалы",Amedia Premium
 http://myott.top/stream/DIPK8H19CP8/151.m3u8
-#EXTINF:-1 tvg-id="disney-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские" tvg-name="Disney +2",Disney +2
-#EXTGRP:Детские
-http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tv1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы" tvg-name="TV 1000",TV 1000
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы",TV 1000
 http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
-#EXTINF:-1 tvg-id="tv1000-action" tvg-logo="https://iptvx.one/picons/tv1000action.png" group-title="Фильмы и сериалы" tvg-name="TV 1000 Action",TV 1000 Action
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="TV 1000 Action" tvg-logo="https://iptvx.one/picons/tv1000action.png" group-title="Фильмы и сериалы",TV 1000 Action
 http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
-#EXTINF:-1 tvg-id="tv1000-worldkino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv1000-worldkino.png?raw=true" group-title="Фильмы и сериалы" tvg-name="TV 1000 World Kino",TV 1000 World Kino
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv1000-worldkino.png?raw=true" group-title="Фильмы и сериалы",TV 1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
-#EXTINF:-1 tvg-id="tv1000-russkoe-kino" tvg-logo="https://iptvx.one/picons/tv1000ruskino.png" group-title="Фильмы и сериалы" tvg-name="TV 1000 Русское кино",TV 1000 Русское кино
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="TV 1000 Русское кино" tvg-logo="https://iptvx.one/picons/tv1000ruskino.png" group-title="Фильмы и сериалы",TV 1000 Русское кино
 http://185.74.7.220:8080/tv1000ru/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-id="ultra-hd-cinema" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ultra-hd-cinema.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Ultra HD Cinema",Ultra HD Cinema
-#EXTGRP:Фильмы и сериалы
-https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 tvg-id="vip-comedy" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-comedy.png?raw=true" group-title="Фильмы и сериалы" tvg-name="VIP Comedy",VIP Comedy
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="VIP Comedy" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-comedy.png?raw=true" group-title="Фильмы и сериалы",VIP Comedy
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_comedy
-#EXTINF:-1 tvg-id="vip-megahit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-megahit.png?raw=true" group-title="Фильмы и сериалы" tvg-name="VIP Megahit",VIP Megahit
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="VIP Megahit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-megahit.png?raw=true" group-title="Фильмы и сериалы",VIP Megahit
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_megahit
-#EXTINF:-1 tvg-id="vip-premiere" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-premiere.png?raw=true" group-title="Фильмы и сериалы" tvg-name="VIP Premiere",VIP Premiere
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="VIP Premiere" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-premiere.png?raw=true" group-title="Фильмы и сериалы",VIP Premiere
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_premiere
-#EXTINF:-1 tvg-id="vip-serial" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-serial.png?raw=true" group-title="Фильмы и сериалы" tvg-name="VIP Serial",VIP Serial
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="VIP Serial" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/vip-serial.png?raw=true" group-title="Фильмы и сериалы",VIP Serial
 http://freeiptv.uk.to:8738/mfolive.m3u8?media=vip_serial
-#EXTINF:-1 tvg-id="karapuz-tv" group-title="Детские" tvg-name="Карапуз ТВ",Карапуз ТВ
-#EXTGRP:Детские
-https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
-#EXTINF:-1 tvg-id="kino-ultra-hd" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kino-ultra-hd.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Кино UHD",Кино UHD
-#EXTGRP:Фильмы и сериалы
-https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="kinokomedia" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinokomedia.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Кинокомедия",Кинокомедия
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Кинокомедия" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinokomedia.png?raw=true" group-title="Фильмы и сериалы",Кинокомедия
 http://sc.id-tv.kz/Kinokomediya_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="kinomiks" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinomiks.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Киномикс",Киномикс
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Киномикс" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinomiks.png?raw=true" group-title="Фильмы и сериалы",Киномикс
 http://sc.id-tv.kz/Kinomix_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="kinopremiera-hd" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinopremiera-hd.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Кинопремьера",Кинопремьера
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Кинопремьера" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinopremiera-hd.png?raw=true" group-title="Фильмы и сериалы",Кинопремьера
 http://89.106.234.3:80/Kinopremiera_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="kinosvidanie" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinosvidanie.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Киносвидание",Киносвидание
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Киносвидание" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinosvidanie.png?raw=true" group-title="Фильмы и сериалы",Киносвидание
 http://sc.id-tv.kz/Kinosvidanie_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="kinosemiya" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinosemiya.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Киносемья",Киносемья
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Киносемья" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinosemiya.png?raw=true" group-title="Фильмы и сериалы",Киносемья
 http://sc.id-tv.kz/Kinosemiya_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="kinoseria" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinoseria.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Киносерия",Киносерия
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Киносерия" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinoseria.png?raw=true" group-title="Фильмы и сериалы",Киносерия
 http://77.243.112.149:8080/mnogo-tv/index.m3u8?token=881251085388
-#EXTINF:-1 tvg-id="kinouzhas" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinouzhas.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Киноужас",Киноужас
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Киноужас" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinouzhas.png?raw=true" group-title="Фильмы и сериалы",Киноужас
 http://31.210.208.168:8080/kinouzhas/index.m3u8
-#EXTINF:-1 tvg-id="kinoxit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinoxit.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Кинохит",Кинохит
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Кинохит" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kinoxit.png?raw=true" group-title="Фильмы и сериалы",Кинохит
 http://sc.id-tv.kz/Kinohit_hd_34_35.m3u8
-#EXTINF:-1 tvg-id="muzhskoe-kino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muzhskoe-kino.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Мужское кино",Мужское кино
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Мужское кино" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muzhskoe-kino.png?raw=true" group-title="Фильмы и сериалы",Мужское кино
 http://147.135.210.90:8081/tv/mughskoe-kino/playlist.m3u8
-#EXTINF:-1 tvg-id="multimania" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/multimania.png?raw=true" group-title="Детские" tvg-name="Мультиландия",Мультиландия
-#EXTGRP:Детские
-http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
-#EXTINF:-1 tvg-id="nashe-novoe-kino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/nashe-novoe-kino.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Наше новое кино",Наше новое кино
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Наше новое кино" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/nashe-novoe-kino.png?raw=true" group-title="Фильмы и сериалы",Наше новое кино
 https://s1.idata.uz/stch_temp6/tracks-v1a1/mono.m3u8
-#EXTINF:-1 tvg-id="rodnoe-kino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rodnoe-kino.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Родное кино",Родное кино
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Родное кино" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rodnoe-kino.png?raw=true" group-title="Фильмы и сериалы",Родное кино
 https://s3.idata.uz/dars10/rewind-7200.m3u8
-#EXTINF:-1 tvg-id="ryzhy" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ryzhy.png?raw=true" group-title="Детские" tvg-name="Рыжий",Рыжий
-#EXTGRP:Детские
-http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
-#EXTINF:-1 tvg-id="serial-ultrahd" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/serial-ultrahd.png?raw=true" group-title="Фильмы и сериалы" tvg-name="Сериал UHD",Сериал UHD
-#EXTGRP:Фильмы и сериалы
+#EXTINF:-1 tvg-name="Сериал UHD" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/serial-ultrahd.png?raw=true" group-title="Фильмы и сериалы",Сериал UHD
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="smaylik-tv" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/smaylik-tv.png?raw=true" group-title="Детские" tvg-name="Смайлик ТВ",Смайлик ТВ
-#EXTGRP:Детские
+#EXTINF:-1 tvg-name="Кино UHD" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kino-ultra-hd.png?raw=true" group-title="Фильмы и сериалы",Кино UHD
+https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Ultra HD Cinema" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ultra-hd-cinema.png?raw=true" group-title="Фильмы и сериалы",Ultra HD Cinema
+https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&offset=-3600
+#EXTINF:-1 tvg-name="2x2 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские",2x2 +2
+https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Disney +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские",Disney +2
+http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
+#EXTINF:-1 tvg-name="Карапуз ТВ" tvg-logo="N/A" group-title="Детские",Карапуз ТВ
+https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
+#EXTINF:-1 tvg-name="Мультиландия" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/multimania.png?raw=true" group-title="Детские",Мультиландия
+http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
+#EXTINF:-1 tvg-name="Рыжий" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ryzhy.png?raw=true" group-title="Детские",Рыжий
+http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
+#EXTINF:-1 tvg-name="Смайлик ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/smaylik-tv.png?raw=true" group-title="Детские",Смайлик ТВ
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-id="soyuz" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Регилиозные" tvg-name="Союз",Союз
-#EXTGRP:Регилиозные
+#EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Регилиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-id="sts-love-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Центральные" tvg-name="СТС Love +2",СТС Love +2
-#EXTGRP:Центральные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="super-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Центральные" tvg-name="Суббота +2",Суббота +2
-#EXTGRP:Центральные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="tnt4-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Центральные" tvg-name="ТНТ4 +2",ТНТ4 +2
-#EXTGRP:Центральные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="che-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Центральные" tvg-name="Че +2",Че +2
-#EXTGRP:Центральные
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 tvg-id="yu-pl2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Центральные" tvg-name="Ю +2",Ю +2
-#EXTGRP:Центральные
-https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
