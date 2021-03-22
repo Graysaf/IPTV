@@ -122,3 +122,6 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 #EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Регилиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+
+#EXTINF:-1 censored="1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/asttv.png?raw=true"  group-title="Для взрослых",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
