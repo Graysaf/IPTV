@@ -120,7 +120,42 @@ http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
 http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-name="Смайлик ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/smaylik-tv.png?raw=true" group-title="Детские",Смайлик ТВ
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Регилиозные",Союз
+
+#EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Религиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 tvg-name="МузСоюз" group-title="Религиозные",МузСоюз
+http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
+#EXTINF:-1 tvg-name="Радость моя" group-title="Религиозные",Радость моя
+https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
+
+
+#EXTINF:-1 tvg-name="Music Channel" group-title="Музыкальные",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 tvg-name="1HD Music TV" group-title="Музыкальные",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="9 волна" group-title="Музыкальные",9 волна
+http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
+#EXTINF:-1 tvg-name="Bridge TV" group-title="Музыкальные",Bridge TV
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s34/04.m3u8
+#EXTINF:-1 tvg-name="Bridge TV Русский хит" group-title="Музыкальные",Bridge TV Русский хит
+#EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
+http://ott-cdn.ucom.am/s78/04.m3u8
+#EXTINF:-1 tvg-name="M2O TV" group-title="Музыкальные",M2O TV
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
+#EXTINF:-1 tvg-name="Metal TV" group-title="Музыкальные",Metal TV
+http://v1.catcast.me/content/33816/index.m3u8
+#EXTINF:-1 tvg-name="Retro Music TV" group-title="Музыкальные",Retro Music TV
+http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
+#EXTINF:-1 tvg-name="RU.TV" group-title="Музыкальные",RU.TV
+https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
+#EXTINF:-1 tvg-name="Музыка Кино" group-title="Музыкальные",Музыка Кино
+http://v2.catcast.me/content/37739/index.m3u8
+#EXTINF:-1 tvg-name="Первый Музыкальный RU BY" group-title="Музыкальные",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 tvg-name="Первый Музыкальный RU HD BY" group-title="Музыкальные",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+#EXTINF:-1 tvg-name="Шансон-TB" group-title="Музыкальные",Шансон ТВ
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 
 
