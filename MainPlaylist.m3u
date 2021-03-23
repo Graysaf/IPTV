@@ -140,4 +140,4 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
 https://s45177.cdn.ngenix.net/hls/CH_R02_MTVMIX/variant.m3u8?version=2
 #EXTINF:-1 tvg-id="muztv" catchup="append" catchup-days="7" catchup-source="?offset=-${offset}&utcstart=${timestamp}" group-title="Музыкальные",Муз ТВ
 
-https://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV/variant.m3u8?version=2
+https://frontend.vh.yandex.ru/player/4d6270ae6127cfe8a24267a8646e1b04?from=ya-tv
