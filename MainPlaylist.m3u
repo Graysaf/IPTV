@@ -1,60 +1,68 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
-#EXTINF:-1 tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал
+
+# Эфирные
+#EXTINF:-1 channel-id="1" tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Россия 1 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные",Россия 1 +2
+#EXTINF:-1 channel-id="2" tvg-name="Россия 1 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
-#EXTINF:-1 tvg-name="Матч! ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные",Матч! ТВ
+#EXTINF:-1 channel-id="3" tvg-name="Матч! ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные",Матч! ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MATCHTV/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="НТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ntv.png?raw=true" group-title="Эфирные",НТВ +2
+#EXTINF:-1 channel-id="4" tvg-name="НТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ntv.png?raw=true" group-title="Эфирные",НТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_NTV_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Пятый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/5kanal-ru.png?raw=true" group-title="Эфирные",Пятый канал +2
+#EXTINF:-1 channel-id="5" tvg-name="Пятый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/5kanal-ru.png?raw=true" group-title="Эфирные",Пятый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_5TV_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Россия К +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kultura.png?raw=true" group-title="Эфирные",Россия К +2
+#EXTINF:-1 channel-id="6" tvg-name="Россия К +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/kultura.png?raw=true" group-title="Эфирные",Россия К
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIAK_2/variant.m3u8
-#EXTINF:-1 tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Эфирные",Россия 24
+#EXTINF:-1 channel-id="7" tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Эфирные",Россия 24
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Карусель +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karusel.png?raw=true" group-title="Эфирные",Карусель +2
+#EXTINF:-1 channel-id="8" tvg-name="Карусель +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karusel.png?raw=true" group-title="Эфирные",Карусель
 http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
-#EXTINF:-1 tvg-name="ОТР (+2)" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/otr.png?raw=true" group-title="Эфирные",ОТР (+2)
+#EXTINF:-1 channel-id="9" tvg-name="ОТР (+2)" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/otr.png?raw=true" group-title="Эфирные",ОТР
 https://zabava-htlive.cdn.ngenix.net/hls/CH_OTR/variant.m3u8?version=2&offset=-7200
-#EXTINF:-1 tvg-name="ТВ Центр +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tvcentr.png?raw=true" group-title="Эфирные",ТВ Центр +2
+#EXTINF:-1 channel-id="10" tvg-name="ТВ Центр +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tvcentr.png?raw=true" group-title="Эфирные",ТВ Центр
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TVC_2/variant.m3u8
-#EXTINF:-1 tvg-name="РЕН ТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rentv.png?raw=true" group-title="Эфирные",РЕН ТВ +2
+#EXTINF:-1 channel-id="11" tvg-name="РЕН ТВ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rentv.png?raw=true" group-title="Эфирные",РЕН ТВ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RENTV_2/variant.m3u8
-#EXTINF:-1 tvg-name="Спас" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Эфирные",Спас
+#EXTINF:-1 channel-id="12" tvg-name="Спас" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Эфирные",Спас
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts.png?raw=true" group-title="Эфирные",СТС +2
+#EXTINF:-1 channel-id="13" tvg-name="СТС +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts.png?raw=true" group-title="Эфирные",СТС
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STS_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Домашний +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/domashny.png?raw=true" group-title="Эфирные",Домашний +2
+#EXTINF:-1 channel-id="14" tvg-name="Домашний +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/domashny.png?raw=true" group-title="Эфирные",Домашний
 https://zabava-htlive.cdn.ngenix.net/hls/CH_DOMASHNY_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="ТВ3 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv3-ru.png?raw=true" group-title="Эфирные",ТВ3 +2
+#EXTINF:-1 channel-id="15" tvg-name="ТВ3 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv3-ru.png?raw=true" group-title="Эфирные",ТВ3
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TV3_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Пятница +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/piatnica.png?raw=true" group-title="Эфирные",Пятница +2
+#EXTINF:-1 channel-id="16" tvg-name="Пятница +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/piatnica.png?raw=true" group-title="Эфирные",Пятница
 https://zabava-htlive.cdn.ngenix.net/hls/CH_FRIDAY_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Звезда +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/zvezda.png?raw=true" group-title="Эфирные",Звезда +2
+#EXTINF:-1 channel-id="17" tvg-name="Звезда +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/zvezda.png?raw=true" group-title="Эфирные",Звезда
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ZVEZDA_2/variant.m3u8
-#EXTINF:-1 tvg-name="Мир +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/mir.png?raw=true" group-title="Эфирные",Мир +2
+#EXTINF:-1 channel-id="18" tvg-name="Мир +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/mir.png?raw=true" group-title="Эфирные",Мир
 https://zabava-htlive.cdn.ngenix.net/hls/CH_MIR_2/variant.m3u8
-#EXTINF:-1 tvg-name="ТНТ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt.png?raw=true" group-title="Эфирные",ТНТ +2
+#EXTINF:-1 channel-id="19" tvg-name="ТНТ +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt.png?raw=true" group-title="Эфирные",ТНТ
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT_2/variant.m3u8
-#EXTINF:-1 tvg-name="Муз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Эфирные",Муз ТВ
+#EXTINF:-1 channel-id="20" tvg-name="Муз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Эфирные",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 tvg-name="Тюменское время" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tumenskoe-vremia.png?raw=true" group-title="Региональные",Тюменское время
+
+# Региональные
+#EXTINF:-1 channel-id="21" tvg-name="Тюменское время" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tumenskoe-vremia.png?raw=true" group-title="Региональные",Тюменское время
 https://rt-ural-tum-htlive.cdn.ngenix.net/hls/CH_R01_OTT_TUMVR_URAL_TUM/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Югра" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yugra.png?raw=true" group-title="Региональные",Югра
+#EXTINF:-1 channel-id="22" tvg-name="Югра" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yugra.png?raw=true" group-title="Региональные",Югра
 https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Ямал-Регион" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yamal-region.png?raw=true" group-title="Региональные",Ямал-Регион
+#EXTINF:-1 channel-id="23" tvg-name="Ямал-Регион" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yamal-region.png?raw=true" group-title="Региональные",Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="СТС Love +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Центральные",СТС Love +2
+
+# Центральные
+#EXTINF:-1 tvg-name="СТС Love +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Центральные",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Суббота +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Центральные",Суббота +2
+#EXTINF:-1 tvg-name="Суббота +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Центральные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="ТНТ4 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Центральные",ТНТ4 +2
+#EXTINF:-1 tvg-name="ТНТ4 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Центральные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Че +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Центральные",Че +2
-https://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Ю +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Центральные",Ю +2
+#EXTINF:-1 tvg-name="Че +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Центральные",Че!
+http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
+#EXTINF:-1 tvg-name="Ю +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Центральные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
+
+# Фильмы и сериалы
 #EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы",Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
@@ -108,9 +116,11 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_SERIALUHD/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Ultra HD Cinema" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ultra-hd-cinema.png?raw=true" group-title="Фильмы и сериалы",Ultra HD Cinema
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&offset=-3600
-#EXTINF:-1 tvg-name="2x2 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские",2x2 +2
+
+# Детские
+#EXTINF:-1 tvg-name="2x2 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Disney +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские",Disney +2
+#EXTINF:-1 tvg-name="Disney +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские",Disney
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Карапуз ТВ" tvg-logo="N/A" group-title="Детские",Карапуз ТВ
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
@@ -121,6 +131,9 @@ http://serv30.vintera.tv:8081/detskiy/ryzhiy_08/playlist.m3u8
 #EXTINF:-1 tvg-name="Смайлик ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/smaylik-tv.png?raw=true" group-title="Детские",Смайлик ТВ
 http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 
+# Религиозные
+#EXTINF:-1 tvg-name="Спас" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/spas.png?raw=true" group-title="Религиозные",Спас
+https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Религиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
 #EXTINF:-1 tvg-name="МузСоюз" group-title="Религиозные",МузСоюз
@@ -128,10 +141,12 @@ http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m
 #EXTINF:-1 tvg-name="Радость моя" group-title="Религиозные",Радость моя
 https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
 
-
+# Музыкальные
+#EXTINF:-1 channel-id="20" tvg-name="Муз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Музыкальные",Муз ТВ
+http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
 #EXTINF:-1 tvg-name="Music Channel" group-title="Музыкальные",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="1HD Music TV" group-title="Музыкальные",1HD Music TV
+#EXTINF:-1 tvg-name="1HD Music" group-title="Музыкальные",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
 #EXTINF:-1 tvg-name="9 волна" group-title="Музыкальные",9 волна
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
@@ -157,5 +172,14 @@ http://rtmp.one.by:2200
 http://rtmp.one.by:2300
 #EXTINF:-1 tvg-name="Шансон-TB" group-title="Музыкальные",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+
+
+
+# Спортивные
+# Развлекаельные
+# Позновательные
+# Новостные
+#EXTINF:-1 channel-id="7" tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Новостные",Россия 24
+https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
 
 
