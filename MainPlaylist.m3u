@@ -50,16 +50,16 @@ https://rt-ural-sur-htlive.cdn.ngenix.net/hls/CH_R04_OTT_UGRA_URAL_SUR/variant.m
 #EXTINF:-1 channel-id="23" tvg-name="Ямал-Регион" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yamal-region.png?raw=true" group-title="Региональные",Ямал-Регион
 https://rt-ural-nbk-htlive.cdn.ngenix.net/hls/CH_R04_OTT_YAMREG_URAL_YNF/variant.m3u8?version=2
 
-# Центральные
-#EXTINF:-1 tvg-name="СТС Love +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Центральные",СТС Love
+# Развлекательные
+#EXTINF:-1 tvg-name="СТС Love +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/sts-love.png?raw=true" group-title="Развлекательные",СТС Love
 https://zabava-htlive.cdn.ngenix.net/hls/CH_STSLOVE_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Суббота +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Центральные",Суббота
+#EXTINF:-1 tvg-name="Суббота +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/super.png?raw=true" group-title="Развлекательные",Суббота
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SUPER_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="ТНТ4 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Центральные",ТНТ4
+#EXTINF:-1 tvg-name="ТНТ4 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tnt4.png?raw=true" group-title="Развлекательные",ТНТ4
 https://zabava-htlive.cdn.ngenix.net/hls/CH_TNT4_2/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Че +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Центральные",Че!
+#EXTINF:-1 tvg-name="Че +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/che.png?raw=true" group-title="Развлекательные",Че!
 http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
-#EXTINF:-1 tvg-name="Ю +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Центральные",Ю
+#EXTINF:-1 tvg-name="Ю +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/yu.png?raw=true" group-title="Развлекательные",Ю
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
 
 # Фильмы и сериалы
@@ -118,6 +118,8 @@ https://zabava-htlive.cdn.ngenix.net/hls/CH_KINOUHD/variant.m3u8?version=2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_ULTRAHDCINEMA_HLS/variant.m3u8?version=2&offset=-3600
 
 # Детские
+#EXTINF:-1 tvg-name="Карусель +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karusel.png?raw=true" group-title="Детские",Карусель
+http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 #EXTINF:-1 tvg-name="2x2 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/2na2.png?raw=true" group-title="Детские",2x2
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Disney +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские",Disney
@@ -173,13 +175,99 @@ http://rtmp.one.by:2300
 #EXTINF:-1 tvg-name="Шансон-TB" group-title="Музыкальные",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музыка",Retro Music Tv
+http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY [FHD]
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",1HD Music TV
+http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1 group-title="Музыка",Russian Music Box
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",SONG TV Armenia
+http://songtvam.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",SONG TV Russia
+http://songtvru.ru:8060/hd/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",1 Music Channel
+https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",ACB TV
+http://acbtv.vintera.tv:8081/acbtv/acbtv_stream/playlist.m3u8
+#EXTINF:-1 group-title="Музыка",MTV HD
+http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
+#EXTINF:-1 group-title="Музыка",М2
+http://live.m2.tv/hls3/stream.m3u8
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный BY
+http://rtmp.one.by:1200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный HD BY
+http://rtmp.one.by:1300
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU BY
+http://rtmp.one.by:2200
+#EXTINF:-1 group-title="Музыка",Первый Музыкальный RU HD BY
+http://rtmp.one.by:2300
+
 
 
 # Спортивные
+#EXTINF:-1 group-title="Спорт",Setanta Sports HD
+http://myott.tv/stream/E9LYLBWT7X/234.m3u8
+#EXTINF:-1 group-title="Спорт",НТВ+ Спорт
+https://alpha.tv.online.tm/legacyhls/ch004_720/index.m3u8
+#EXTINF:-1 group-title="Спорт",Спорт 1 HD
+http://161.0.157.8/PLTV/88888888/224/3221227040/index.m3u8
+
+
 # Развлекаельные
-# Позновательные
+# Познавательные
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Da Vinci
+https://sc.id-tv.kz/DaVinci_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",hdl HD
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Трофей HD
+http://5db1ab4f970be.streamlock.net:1935/live/smil:trofey.smil/chunklist_w1068339373_b878000_slukr.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая рыбалка HD
+http://hlsstr01.svc.iptv.rt.ru/hls/CH_DIKAYARYBALKAHD/variant.m3u8
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Guid-TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/1080i/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Ocean TV
+http://91.192.168.242:9091
+#EXTINF:-1 group-title="Познавательные",National Geographic Wild HD
+https://sc.id-tv.kz/NatGeoWildHD_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Travel Guide TV
+http://cdn10.live-tv.od.ua:8081/leonovtv/test1/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Дикая Рыбалка HD
+http://live.m2.tv/hls2/stream.m3u8
+#EXTINF:-1 group-title="Познавательные",Поехали!
+http://sc.id-tv.kz:80/poehali_38_39.m3u8
+#EXTINF:-1 group-title="Познавательные",H2
+http://sc.id-tv.kz:80/H2_38_39.m3u8
+#EXTINF:-1 group-title="Познавательные",HDL HD
+https://sc.id-tv.kz/hdl_34_35.m3u8
+#EXTINF:-1 group-title="Познавательные",Здоровье ТВ
+http://cdn1.live-tv.od.ua:8081/zdorovood/zdorovo-abr-lq/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Мособр TV
+http://retg.educom.ru/mosobrtv/smil:tv.smil/playlist.m3u8
+#EXTINF:-1 group-title="Познавательные",Мособр TV HD
+http://retj.educom.ru/mosobrtv/tv1/index.m3u8
+
 # Новостные
 #EXTINF:-1 channel-id="7" tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Новостные",Россия 24
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
+#EXTINF:-1 group-title="Новостные",Известия
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1 group-title="Новостные",РБК ТВ
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+
+#EXTINF:-1 group-title="Новостные",Евроновости
+http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
+
 
 
