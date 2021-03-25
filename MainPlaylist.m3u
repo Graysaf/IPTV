@@ -162,7 +162,7 @@ http://ott-cdn.ucom.am/s78/04.m3u8
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
 #EXTINF:-1 tvg-name="Metal TV" group-title="Музыкальные",Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
-#EXTINF:-1 tvg-name="Retro Music TV" group-title="Музыкальные",Retro Music TV
+#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/retro-music-tv.png?raw=true" group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
 #EXTINF:-1 tvg-name="RU.TV" group-title="Музыкальные",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
