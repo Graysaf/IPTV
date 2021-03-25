@@ -1,8 +1,7 @@
 #EXTM3U url-tvg="https://iptvx.one/EPG"
 
 # Эфирные
-#EXTINF:-1 channel-id="1" tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал
-https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
+#EXTINF:-1 channel-id="1" tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал\r\nhttps://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
 #EXTINF:-1 channel-id="2" tvg-name="Россия 1 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 channel-id="3" tvg-name="Матч! ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные",Матч! ТВ
