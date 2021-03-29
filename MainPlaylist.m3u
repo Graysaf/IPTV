@@ -124,7 +124,7 @@ http://zabava-htlive.cdn.ngenix.net/hls/CH_KARUSEL_2/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_2X2_2/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Disney +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/disney.png?raw=true" group-title="Детские",Disney
 http://zabava-htlive.cdn.ngenix.net/hls/CH_DISNEY/bw2000000/variant.m3u8?version=2
-#EXTINF:-1 tvg-name="Карапуз ТВ" tvg-logo="N/A" group-title="Детские",Карапуз ТВ
+#EXTINF:-1 tvg-name="Карапуз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/karapuz-tv.png?raw=true" group-title="Детские",Карапуз ТВ
 https://karapuztv.fenixplustv.xyz/content/33418/index.m3u8
 #EXTINF:-1 tvg-name="Мультиландия" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/multimania.png?raw=true" group-title="Детские",Мультиландия
 http://serv30.vintera.tv:8081/detskiy/multimania20/playlist.m3u8
@@ -138,33 +138,33 @@ http://62.32.67.187:1935/WEB_Smilik/Smilik.stream/playlist.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_SPAS/variant.m3u8?version=2
 #EXTINF:-1 tvg-name="Союз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/soyuz.png?raw=true" group-title="Религиозные",Союз
 http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
-#EXTINF:-1 tvg-name="МузСоюз" group-title="Религиозные",МузСоюз
+#EXTINF:-1 tvg-name="МузСоюз" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muzsoyuz.png?raw=true" group-title="Религиозные",МузСоюз
 http://hls.tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/chunklist.m3u8
-#EXTINF:-1 tvg-name="Радость моя" group-title="Религиозные",Радость моя
+#EXTINF:-1 tvg-name="Радость моя" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/radost-moya.png?raw=true" group-title="Религиозные",Радость моя
 https://cdn-01.bonus-tv.ru:8090/radostmoya_edge/tracks-v1a1/mono.m3u8
 
 # Музыкальные
 #EXTINF:-1 channel-id="20" tvg-name="Муз ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/muztv.png?raw=true" group-title="Музыкальные",Муз ТВ
 http://zabava-htlive.cdn.ngenix.net/hls/CH_MUZTV_2/variant.m3u8
-#EXTINF:-1 tvg-name="Music Channel" group-title="Музыкальные",1 Music Channel
+#EXTINF:-1 tvg-name="Music Channel" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/music-channel.png?raw=true" group-title="Музыкальные",1 Music Channel
 https://edge126.rcs-rds.ro/utvedge/musicchannelhq.stream/playlist.m3u8
-#EXTINF:-1 tvg-name="1HD Music" group-title="Музыкальные",1HD Music TV
+#EXTINF:-1 tvg-name="1HD Music" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/1hd.png?raw=true"  group-title="Музыкальные",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="9 волна" group-title="Музыкальные",9 волна
+#EXTINF:-1 tvg-name="9 волна" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/acb-tv.png?raw=true"  group-title="Музыкальные",9 волна
 http://cdn-01.bonus-tv.ru:8080/9volna/tracks-v1a1/index.m3u8
-#EXTINF:-1 tvg-name="Bridge TV" group-title="Музыкальные",Bridge TV
+#EXTINF:-1 tvg-name="Bridge TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/bridge-tv.png?raw=true"  group-title="Музыкальные",Bridge TV
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s34/04.m3u8
-#EXTINF:-1 tvg-name="Bridge TV Русский хит" group-title="Музыкальные",Bridge TV Русский хит
+#EXTINF:-1 tvg-name="Bridge TV Русский хит" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/bridge-tv-ruxit.png?raw=true" group-title="Музыкальные",Bridge TV Русский хит
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s78/04.m3u8
-#EXTINF:-1 tvg-name="M2O TV" group-title="Музыкальные",M2O TV
+#EXTINF:-1 tvg-name="M2O TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/m2o-music-tv.png?raw=true" group-title="Музыкальные",M2O TV
 http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-p.m3u8
-#EXTINF:-1 tvg-name="Metal TV" group-title="Музыкальные",Metal TV
+#EXTINF:-1 tvg-name="Metal TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/metal-tv.png?raw=true" group-title="Музыкальные",Metal TV
 http://v1.catcast.me/content/33816/index.m3u8
-#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/retro-music-tv.png?raw=true" group-title="Музыкальные",Retro Music TV
+#EXTINF:-1 tvg-name="Retro Music TV" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/retro-music-cz.png?raw=true" group-title="Музыкальные",Retro Music TV
 http://stream.mediawork.cz/retrotv/smil:retrotv2.smil/chunklist_w680437373_b750000.m3u8
-#EXTINF:-1 tvg-name="RU.TV" group-title="Музыкальные",RU.TV
+#EXTINF:-1 tvg-name="RU.TV"tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/ru-tv.png?raw=true"  group-title="Музыкальные",RU.TV
 https://rutv.gcdn.co/streams/1410_95/720n/index.m3u8
 #EXTINF:-1 tvg-name="Музыка Кино" group-title="Музыкальные",Музыка Кино
 http://v2.catcast.me/content/37739/index.m3u8
@@ -172,10 +172,13 @@ http://v2.catcast.me/content/37739/index.m3u8
 http://rtmp.one.by:2200
 #EXTINF:-1 tvg-name="Первый Музыкальный RU HD BY" group-title="Музыкальные",Первый Музыкальный RU HD BY
 http://rtmp.one.by:2300
-#EXTINF:-1 tvg-name="Шансон-TB" group-title="Музыкальные",Шансон ТВ
+#EXTINF:-1 tvg-name="Шансон-TB" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/shanson-tv.png?raw=true" group-title="Музыкальные",Шансон ТВ
 http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 tvg-name="Russian MusicBox"  tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/russian-musicbox.png?raw=true" group-title="Музыкальные",Russian MusicBox
+http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
-#EXTINF:-1 group-title="Музыка",MTV HD
+
+#EXTINF:-1 group-title="Музыкальные",MTV HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/index_3500_av-b.m3u8
 #EXTINF:-1 group-title="Музыка",Retro Music Tv
 http://stream.mediawork.cz/retrotv//retrotvHQ1/playlist.m3u8
@@ -187,8 +190,7 @@ http://rtmp.one.by:1300
 http://rtmp.one.by:2200
 #EXTINF:-1 group-title="Музыка",1HD Music TV
 http://1hdru-hls-otcnet.cdnvideo.ru/onehdmusic/tracks-v1a1/index.m3u8
-#EXTINF:-1 group-title="Музыка",Russian Music Box
-http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
+
 #EXTINF:-1 group-title="Музыка",SONG TV Armenia
 http://songtvam.ru:8060/hd/playlist.m3u8
 #EXTINF:-1 group-title="Музыка",SONG TV Russia
@@ -261,12 +263,11 @@ http://retj.educom.ru/mosobrtv/tv1/index.m3u8
 # Новостные
 #EXTINF:-1 channel-id="7" tvg-name="Россия 24" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia-24.png?raw=true" group-title="Новостные",Россия 24
 https://rt-ural-ekt-htlive.cdn.ngenix.net/hls/CH_R01_OTT_ROSSIA24_EKT/variant.m3u8?version=2
-#EXTINF:-1 group-title="Новостные",Известия
+#EXTINF:-1 tvg-name="Известия" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/izvestia.png?raw=true"  group-title="Новостные",Известия
 http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
-#EXTINF:-1 group-title="Новостные",РБК ТВ
+#EXTINF:-1 tvg-name="РБК" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rbk.png?raw=true"  group-title="Новостные",РБК ТВ
 http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
-
-#EXTINF:-1 group-title="Новостные",Евроновости
+#EXTINF:-1 tvg-name="Евроновости" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/euronews.png?raw=true"  group-title="Новостные",Евроновости
 http://evronovosti.mediacdn.ru/sr1/evronovosti/playlist.m3u8
 
 
