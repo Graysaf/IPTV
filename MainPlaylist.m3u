@@ -3,7 +3,6 @@
 # Эфирные
 #EXTINF:-1 channel-id="1" tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал
 https://zabava-htlive.cdn.ngenix.net/hls/CH_1TVSD_2/variant.m3u8?version=2
-
 #EXTINF:-1 channel-id="2" tvg-name="Россия 1 +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/rossia1.png?raw=true" group-title="Эфирные",Россия 1
 https://zabava-htlive.cdn.ngenix.net/hls/CH_RUSSIA1_2/variant.m3u8
 #EXTINF:-1 channel-id="3" tvg-name="Матч! ТВ" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/match-tv.png?raw=true" group-title="Эфирные",Матч! ТВ
@@ -76,7 +75,7 @@ http://myott.top/stream/DIPK8H19CP8/151.m3u8
 #EXTINF:-1 tvg-name="TV 1000" tvg-logo="https://iptvx.one/picons/tv1000.png" group-title="Фильмы и сериалы",TV 1000
 http://51.68.140.190:8081/tv/tv1000/playlist.m3u8
 #EXTINF:-1 tvg-name="TV 1000 Action" tvg-logo="https://iptvx.one/picons/tv1000action.png" group-title="Фильмы и сериалы",TV 1000 Action
-http://dmitry-tv.my1.ru/his/zabava/04/CH_TV1000ACTIONHD.m3u8?version=2&offset=-64800|user-agent=mx
+http://195.189.105.158:9050/120/index.m3u8
 #EXTINF:-1 tvg-name="TV 1000 World Kino" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/tv1000-worldkino.png?raw=true" group-title="Фильмы и сериалы",TV 1000 World Kino
 http://195.189.105.158:9050/121/index.m3u8
 #EXTINF:-1 tvg-name="TV 1000 Русское кино" tvg-logo="https://iptvx.one/picons/tv1000ruskino.png" group-title="Фильмы и сериалы",TV 1000 Русское кино
@@ -182,5 +181,6 @@ http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
 #EXTINF:-1 tvg-name="Russian MusicBox" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/russian-musicbox.png?raw=true" group-title="Музыкальные",Russian MusicBox
 http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
-
-
+# Для взрослых
+#EXTINF:-1 parent-code="1234" group-title="Для взрослых",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
