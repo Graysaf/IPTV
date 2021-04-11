@@ -184,3 +184,7 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 # Для взрослых
 #EXTINF:-1 parent-code="1234" group-title="Для взрослых",AST TV 1
 https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 censored="0" group-title="Для взрослых",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
+#EXTINF:-1 censored="1" group-title="Для взрослых",AST TV 1
+https://www.ast.tv/stream/1/ultra.m3u8
