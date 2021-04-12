@@ -1,4 +1,5 @@
-#EXTM3U url-tvg="https://iptvx.one/EPG"
+#EXTM3U url-tvg="https://iptvx.one/EPG" m3uautoload=1 cache=500 deinterlace=1 tvg-shift=0
+#PLAYLIST:Graysaf IPTV
 
 # Эфирные
 #EXTINF:-1 channel-id="1" tvg-name="Первый канал +2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/pervy.png?raw=true" group-title="Эфирные",Первый канал
@@ -63,9 +64,13 @@ http://rt-ural-chel-htlive.cdn.ngenix.net/hls/CH_R02_OTT_PERETZ/variant.m3u8
 https://zabava-htlive.cdn.ngenix.net/hls/CH_U_2/variant.m3u8?version=2
 
 # Фильмы и сериалы
-#EXTINF:-1 tvg-name="Amedia 1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы",Amedia 1
+#EXTINF:-1 agerestriction=1 tvg-name="Amedia 1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы",Amedia 1
 #EXTVLCOPT:http-user-agent="Dalvik/2.1.0 (Linux; U; Android 6.0.1;)"
 http://ott-cdn.ucom.am/s45/04.m3u8
+
+#EXTINF:-1 agerestriction=0 tvg-name="Amedia 1" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia1.png?raw=true" group-title="Фильмы и сериалы",Amedia 1
+http://ott-cdn.ucom.am/s45/04.m3u8|User-Agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1;)
+
 #EXTINF:-1 tvg-name="Amedia 2" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia2.png?raw=true" group-title="Фильмы и сериалы",Amedia 2
 http://51.68.140.190:8081/tv/amedia2/playlist.m3u8
 #EXTINF:-1 tvg-name="Amedia Hit" tvg-logo="https://github.com/Graysaf/IPTV/blob/main/logo/amedia-hit.png?raw=true" group-title="Фильмы и сериалы",Amedia Hit
