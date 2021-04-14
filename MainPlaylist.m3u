@@ -185,6 +185,22 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 
 #EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
 http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=Lavf/56.15.102
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=smartlabs
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=Mozilla/5.0 (X11; Linuxx86_64; rv:10.0.7)
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=MAG200
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=NSPlayer/9.0.0.3268
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=LibVLC/2.2.4
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=DuneHD/1.0
+#EXTINF:-1 tvch-id="9006" group-title="КИНО/СЕРИАЛЫ",TV XXI-9006
+http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=rostelecom
 
 
 
