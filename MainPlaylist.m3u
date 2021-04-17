@@ -188,4 +188,6 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 http://31.210.208.188:8080/nuart/tracks-v1a1/mono.m3u8
 #EXTINF:-1  group-title="Для взрослых" tvg-logo="https://i.ibb.co/NVPmnWF/107-Russkaja-Noch.png",Русская Ночь
 http://37.17.12.118:8905/play/a00n
+#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости" group-title="Информационные",360° Новости
+https://play.megafon.tv/out/u/v1-video-6348365.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 
