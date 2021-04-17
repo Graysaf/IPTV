@@ -203,4 +203,6 @@ http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=DuneHD/1.0
 http://81.177.214.172:4022/udp/232.0.1.22:1234|User-Agent=rostelecom
 
 
+#EXTINF:-1  group-title="Для взрослых" tvg-logo="https://i.ibb.co/NVPmnWF/107-Russkaja-Noch.png",Русская Ночь
+http://37.17.12.118:8905/play/a00n
 
