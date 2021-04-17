@@ -187,8 +187,9 @@ http://serv25.vintera.tv:8081/test/rusmusbox/playlist.m3u8
 #EXTINF:-1 group-title="Для взрослых"  tvg-logo="https://i.ibb.co/j6b75tq/106-Nuart.png",Ню Арт ТВ
 http://31.210.208.188:8080/nuart/tracks-v1a1/mono.m3u8
 
-#EXTINF:-1 tvg-id="360-news" tvg-name="360° Новости" group-title="Информационные",360° Новости
-https://play.megafon.tv/out/u/v1-video-6348365.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+#EXTINF:-1 tvg-id="tnt" tvg-name="ТНТ" group-title="Федеральные",ТНТ
+https://play.megafon.tv/out/u/v1-video-6348390.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
+
 
 #EXTINF:-1 tvg-id="barely-legal" tvg-name="Barely Legal TV" group-title="Для взрослых",Barely Legal
 https://play.megafon.tv/out/u/v1-video-6348294.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
@@ -204,4 +205,3 @@ https://play.megafon.tv/out/u/v1-video-6782118.mpd?device_type=web&display_type=
 https://play.megafon.tv/out/u/v1-video-6348358.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
 #EXTINF:-1 tvg-id="shalun" tvg-name="Шалун" group-title="Для взрослых",Шалун
 https://play.megafon.tv/out/u/v1-video-6782131.mpd?device_type=web&display_type=web-wp&manufacturer=other&os_type=other&scheme=https&scheme=https
-
